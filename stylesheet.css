@@ -1,0 +1,42 @@
+h1 {color: green; font-size: 22pt;} {font-size: 250%;
+	              font-weight: bold;
+	              color: yellow}
+
+
+body { 	background: black;
+color: yellow;
+   	    	font-size: 14pt;
+       		font-family: 'Sedgwick Ave Display', cursive;
+ 			    }
+
+a:hover { color: yellow }
+
+p {
+  text-align: center;
+  color: yellow;
+}
+
+h3 {
+  text-align: center;
+  color: yellow;
+}
+
+h1{
+  text-align: center;
+  color: yellow;
+}
+
+h2 {
+  text-align: center;
+  color: yellow;
+}
+
+h3 {
+  text-align: center;
+  color: yellow;
+}
+header {
+  font-size: 69pt;
+  text-align: center;
+  color: yellow;
+}
